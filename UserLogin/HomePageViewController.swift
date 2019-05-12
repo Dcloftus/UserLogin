@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HomePageViewController.swift
 //  UserLogin
 //
 //  Created by Daniel Loftus on 5/11/19.
@@ -8,13 +8,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomePageViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+        
+    }
+    
+
+    
 
 }
-
